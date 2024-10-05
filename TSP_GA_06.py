@@ -293,5 +293,5 @@ def game_of_life(pop_size, gen_max):
     print("Best city: Ellen")
     print("Worst city: Ben")
 
-game_of_life(250, 1)
+game_of_life(250, 200)
 
